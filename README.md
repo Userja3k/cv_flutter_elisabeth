@@ -2,40 +2,11 @@
 
 Application Flutter de portfolio présentant mon CV, ma famille et mes coordonnées.
 
-## Fonctionnalités
+## Captures
 
-- Connexion de démonstration avec validation des champs.
-- CV : profil, formation, expériences, compétences et langues.
-- Page Famille avec présentation des membres.
-- Page Contact avec raccourcis téléphone, email, carte et LinkedIn.
-- Navigation personnalisée en forme de pilule.
+<img width="500" height="300" alt="Capture d&#39;écran 2026-11-20 124645" src="https://github.com/user-attachments/assets/248b76e8-e35a-4142-a2dc-3cee322f5b7c" />
+<img width="500" height="300" alt="Capture d&#39;écran 2026-11-20 130712" src="https://github.com/user-attachments/assets/cc8855e3-fcd2-4d78-a39e-9cfb4a74b642" />
+<img width="500" height="300" alt="Capture d&#39;écran 2026-11-20 124751" src="https://github.com/user-attachments/assets/410f0e4c-96f8-43d2-83df-e0c72ed3676d" />
+<img width="500" height="300" alt="Capture d&#39;écran 2026-11-20 124702" src="https://github.com/user-attachments/assets/3ea404ce-633a-4283-94be-d365b8d851bc" />
 
-## Design
-
-- Material 3, avec une palette cyan et bleu clair.
-- Police Inter via `google_fonts`.
-- Interface adaptée au mobile Android.
-
-## Structure du code
-
-- `lib/main.dart` : démarrage de l’application et thème global.
-- `lib/screens/login_screen.dart` : formulaire de connexion.
-- `lib/screens/main_screen.dart` : navigation entre les pages.
-- `lib/screens/home_screen.dart` : CV.
-- `lib/screens/family_screen.dart` : famille.
-- `lib/screens/contact_screen.dart` : coordonnées.
-
-La photo du profil est chargée depuis `assets/moi.jpeg`.
-
-## Installation et lancement
-
-Depuis le dossier du projet :
-
-```shell
-flutter pub get
-flutter run
-```
-
-## Captures d’écran
-
-Ajoutez vos captures d’écran dans le dépôt et insérez-les ici avant de publier le projet.
+<img width="500" height="300" alt="Capture d&#39;écran 2026-11-20 124623" src="https://github.com/user-attachments/assets/a8c708b9-7a61-486e-b7af-af277ce9c175" />
